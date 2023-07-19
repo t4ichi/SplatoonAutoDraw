@@ -6,10 +6,10 @@
 ## デモ
 この絵だと全部描き終わるまで15分くらいかかった
 
-![demo](https://github.com/t4ichi/SplatoonAutoDraw/assets/67674781/7031b89e-d76b-47f1-ad2c-afb92cfac11d)
+<div><video controls src="https://github.com/t4ichi/SplatoonAutoDraw/assets/67674781/7031b89e-d76b-47f1-ad2c-afb92cfac11d"></video></div>
+
 
 ## 手順
-
 
 1.`generate-drawdata.py`を起動して320×120の画像ファイルを選択する
 
